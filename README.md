@@ -2,7 +2,6 @@
 <h4 align="left"><i><ul> 👨🏻‍🎓 I am an Undergraduate at the Department of Computer Science & Informatics at Uva Wellassa University pursuing B.Sc. (Hons) in Industrial Information Technology.</ul> <br><ul> 🌱 Currently going true Java, Python, Dart, Firebase, React, SQLite, and Laravel.</ul> <ul> <br> 📫 Reach me <a href="mailto:isurusanjana1998@gmail.com">isurusanjana1998@gmail.com</a></ul></i></h4>
 
 <br>
-<br>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=isanjana98&label=Profile%20views&color=0e75b6&style=flat" alt="isanjana98" /> </p>
 
@@ -18,7 +17,6 @@
 <a href="https://discord.gg/ISXD(Pikachu)#8721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ISXD(Pikachu)#8721" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
