@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Sanjana</h1>
-<h3 align="center">👨🏻‍🎓 I am an Undergraduate at the Department of Computer Science & Informatics at Uva Wellassa University pursuing B.Sc. (Hons) in Industrial Information Technology. <br> 🌱 Currently going true Java, Python, Dart, Firebase, React, SQLite, and Laravel. <br> 📫 Reach me isurusanjana1998@gmail.com</h3>
+<h3 align="left">👨🏻‍🎓 I am an Undergraduate at the Department of Computer Science & Informatics at Uva Wellassa University pursuing B.Sc. (Hons) in Industrial Information Technology. <br> 🌱 Currently going true Java, Python, Dart, Firebase, React, SQLite, and Laravel. <br> 📫 Reach me <a href="mailto:isurusanjana1998@gmail.com">isurusanjana1998@gmail.com</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isanjana98&label=Profile%20views&color=0e75b6&style=flat" alt="isanjana98" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=isanjana98&label=Profile%20views&color=0e75b6&style=flat" alt="isanjana98" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
