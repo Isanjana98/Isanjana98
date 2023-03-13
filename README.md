@@ -3,8 +3,7 @@
 
 <br>
 
-<h3><b>Glad to see you here!</b></h3>
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=isanjana98&label=Profile%20views&color=0e75b6&style=flat" alt="isanjana98" /> </p>
+<p align="Center"> <b>Glad to see you here!</b> <img src="https://komarev.com/ghpvc/?username=isanjana98&label=Profile%20views&color=0e75b6&style=flat" alt="isanjana98" /> </p>
 
 <br>
 
