@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/Isanjana98/My-Work/blob/main/My-work.gif)
-<img src="[img_girl.jpg](https://github.com/Isanjana98/My-Work/blob/main/My-work.gif" width="500" height="600" align="center">
+<p align="center"> <img src="https://github.com/Isanjana98/My-Work/blob/main/My-work.gif"> </p>
+
 <h1 align="center">Hi 👋, I'm Isuru Sanjana</h1>
 <h4 align="left"><i><ul> 👨🏻‍🎓 I am an Undergraduate at the Department of Computer Science & Informatics at Uva Wellassa University pursuing B.Sc. (Hons) in Industrial Information Technology.</ul> <br><ul> 🌱 Currently going true Java, Python, Dart, JavaScript, HTML5, Vue.JS, MongoDB, PHP,  Firebase, React, SQLite, and Laravel.</ul> <ul> <br> 📫 Reach me <a href="mailto:isurusanjana1998@gmail.com">isurusanjana1998@gmail.com</a></ul></i></h4>
 
