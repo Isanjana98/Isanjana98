@@ -18,8 +18,8 @@
   <a href="https://www.hackerrank.com/isurusanjana" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
-  <a href="https://instagram.com/isurusanjana" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://fb.com/isuru.sanjana.9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=isanjana98&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
@@ -48,6 +48,7 @@ I'm a **Full Stack Developer** with a B.Sc. (Hons) in Industrial Information Tec
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
@@ -60,6 +61,7 @@ I'm a **Full Stack Developer** with a B.Sc. (Hons) in Industrial Information Tec
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -67,8 +69,9 @@ I'm a **Full Stack Developer** with a B.Sc. (Hons) in Industrial Information Tec
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
@@ -76,14 +79,18 @@ I'm a **Full Stack Developer** with a B.Sc. (Hons) in Industrial Information Tec
 ### 🤖 Machine Learning & Data
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
@@ -95,25 +102,51 @@ I'm a **Full Stack Developer** with a B.Sc. (Hons) in Industrial Information Tec
 
 ## 🚀 Featured Projects
 
+### 📈 [Finance & Stock Market Data Engineering Pipeline](https://github.com/Isanjana98/Finance---Stock-Market-Data-Engineering-Project)
+> An end-to-end **data engineering and ML pipeline** for ingesting, processing, and analysing real-time stock market data — with an interactive Streamlit dashboard.
+
+- Fetches 5 years of OHLCV data for **AAPL, MSFT, GOOGL, AMZN, TSLA** via `yfinance`; loads into **PostgreSQL** and **Snowflake**
+- Orchestrates the full ETL + ML workflow with **Apache Airflow** (`fetch → clean → load → train`)
+- Trains a **Random Forest** model with MLflow tracking; includes **LSTM forecasting** and **Isolation Forest anomaly detection**
+- Streamlit dashboard with dark UI — single-stock analytics, S&P 500 overview, sector insights, and next-day price prediction
+
+`Python` `Pandas` `PostgreSQL` `Snowflake` `Apache Airflow` `scikit-learn` `TensorFlow/Keras` `MLflow` `Streamlit` `Plotly`
+
+---
+
+### 🏨 [Hotel Rashmitha — Hotel Management System](https://github.com/Isanjana98/Hotel-Rashmitha)
+> A full-featured **hotel and restaurant management web application** with AJAX-powered dynamic navigation and modular page architecture.
+
+- Refactored monolithic `index.php` into 11 independent AJAX-loaded page modules (dashboard, bookings, rooms, restaurant, tasks, and more)
+- Built complete booking and reservation management with real-time room availability and billing
+- Includes a **restaurant module** — menu management, live orders dashboard, and restaurant reports
+- Responsive admin UI with sidebar navigation, loading states, and error handling
+
+`PHP` `Laravel` `MySQL` `JavaScript` `AJAX` `Bootstrap` `HTML5` `CSS3`
+
+---
+
+### 🕵️ [Credit Card Fraud Detection](https://github.com/Isanjana98)
+> A machine learning project detecting fraudulent transactions from **284,807 credit card records** using multiple classification algorithms, with both Python and R dashboards.
+
+- Trained and compared **Logistic Regression, Random Forest, XGBoost, and Neural Network (Keras)** models on highly imbalanced transaction data
+- Evaluated models across Accuracy, Precision, Recall, F1-Score, and **ROC-AUC**
+- Built an interactive **Streamlit web app** (Python) and a **Shiny dashboard** (R) for visualisation and live prediction
+- Dataset: 31 features including anonymised PCA components, transaction time, and amount
+
+`Python` `R` `scikit-learn` `XGBoost` `Keras` `Streamlit` `Shiny` `Pandas` `Imbalanced Learning`
+
+---
+
 ### 🌍 [World Development Indicators — Data Science Pipeline](https://github.com/Isanjana98)
 > Full end-to-end data science pipeline on the World Bank WDI dataset, implemented in both **Python** and **R**.
 
 - Engineered and merged 6 WDI source files covering 266 countries and 60+ years of data
-- Built regression models (Ridge, Lasso, Random Forest, Gradient Boosting) to predict **log(GDP per capita)** — achieving Test R² of **0.92–0.96**
+- Built regression models (Ridge, Lasso, Random Forest, Gradient Boosting) predicting **log(GDP per capita)** — Test R² of **0.92–0.96**
 - Applied **K-Means clustering** (k=4) with PCA projection to group countries by development tier
 - Produced 10 publication-quality figures per language using **matplotlib/seaborn** and **ggplot2**
 
-`Python` `R` `scikit-learn` `pandas` `ggplot2` `Machine Learning` `Data Visualisation`
-
----
-
-### 🛠️ [Your Next Project — Coming Soon](https://github.com/Isanjana98)
-> *Brief description of your project — what problem it solves and the tech used.*
-
-- Highlight a key feature or achievement
-- Mention stack, scale, or impact
-
-`Tech` `Stack` `Here`
+`Python` `R` `scikit-learn` `Pandas` `ggplot2` `Machine Learning` `Data Visualisation`
 
 ---
 
